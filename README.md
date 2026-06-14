@@ -1,8 +1,8 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Vignesh%20M&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Frontend%20Software%20Engineer%20%7C%20React%20%26%20MERN%20Stack%20Specialist&descAlignY=62&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Vignesh%20M&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=MERN%20Stack%20Developer%20%7C%20React%20%C2%B7%20Node.js%20%C2%B7%20MongoDB%20%C2%B7%20Express&descAlignY=62&descSize=16" width="100%"/>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey+there%2C+I'm+Vignesh+%F0%9F%91%8B;Frontend+Software+Engineer+%7C+2%2B+Years;React.js+%7C+Next.js+%7C+MERN+Stack;Building+Scalable+%26+Performant+UIs" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey+there%2C+I'm+Vignesh+%F0%9F%91%8B;MERN+Stack+Developer+%7C+2%2B+Years;React.js+%7C+Node.js+%7C+MongoDB+%7C+Express;Building+Scalable+Full-Stack+Web+Apps" alt="Typing SVG" />
   </a>
 </div>
 
@@ -21,12 +21,12 @@ const vignesh = {
   name        : "Vignesh M",
   location    : "Ambur, Tamil Nadu, India 🇮🇳",
   degree      : "B.E. Computer Science (Anna University, 7.6 CGPA)",
-  role        : "Frontend Software Engineer @ Colan Infotech",
+  role        : "MERN Stack Developer @ Colan Infotech",
   stack       : ["React.js", "Next.js", "Redux", "TypeScript",
                  "Node.js", "MongoDB", "Tailwind CSS"],
-  currentlyLearning : ["System Design", "React Server Components",
-                       "Performance Optimization Patterns"],
-  experience  : "2+ years | India & Middle East clients",
+  currentlyLearning : ["Redis Caching", "GraphQL APIs", "Docker",
+                       "MCP (Model Context Protocol)", "AWS Basics"],
+  experience  : "2.5+ years",
   funFact     : "I turn Figma designs into pixel-perfect React UIs ✨",
   motto       : () => "Write clean code. Ship fast. Iterate always.",
 };
@@ -174,22 +174,6 @@ const vignesh = {
 
 ---
 
-## 🎖️ Achievements & Awards
-
-<div align="center">
-
-| 🏅 | Achievement | Details |
-|---|---|---|
-| 🥇 | **Best Performer – Q4 2024** | Recognized at **Colan Infotech Pvt. Ltd.** for delivering high-quality frontend features and optimizing UI performance across multiple projects |
-| ⚡ | **Performance Champion** | Improved application performance by **20%** through React optimization techniques |
-| 🧩 | **Reusability Leader** | Reduced development effort by **30%** with scalable reusable component systems |
-| 🌍 | **International Delivery** | Delivered production-grade web applications for clients across **India and the Middle East** |
-| 🎓 | **Engineering Graduate** | B.E. Computer Science — **CGPA 7.6** — Anna University |
-
-</div>
-
----
-
 ## 🎓 Education
 
 <div align="center">
@@ -205,11 +189,14 @@ const vignesh = {
 ## 🌱 Currently Learning
 
 ```
-🚀 React Server Components  → Next.js App Router · Streaming · Suspense
-⚙️  Performance Engineering  → Core Web Vitals · Bundle Splitting · Lazy Loading
-🏗️  System Design            → Scalable Frontend Architecture · Micro-frontends
-🧪 Advanced Testing          → React Testing Library · E2E with Cypress
-☁️  Cloud Basics             → Vercel Deployments · CI/CD Pipelines
+🗄️  Redis                    → Caching Strategies · Session Storage · Pub/Sub · BullMQ Queues
+🔗  GraphQL                  → Apollo Server · Schema Design · Resolvers · Subscriptions
+🐳  Docker                   → Containerization · Docker Compose · Multi-stage Builds
+☁️  AWS                      → EC2 · S3 · Lambda · API Gateway · IAM Basics
+🔐  Backend Security         → JWT · OAuth 2.0 · Rate Limiting · Helmet.js
+🤖  MCP (Model Context Protocol) → AI Agent Tooling · LLM Integration · Custom MCP Servers
+🏗️  System Design            → Microservices · REST vs GraphQL · Load Balancing · DB Indexing
+🚀  React Server Components  → Next.js App Router · Streaming · Server Actions · Suspense
 ```
 
 ---
